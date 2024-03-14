@@ -6,9 +6,15 @@ adding a new line
 
 adding a line
 
+
 1
 2
 3
 4
 5
+=======
+new edit stash
+
+add number 2
+
 
