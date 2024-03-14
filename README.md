@@ -8,3 +8,5 @@ adding a line
 
 new edit stash
 
+add number 2
+
