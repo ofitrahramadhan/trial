@@ -6,3 +6,5 @@ adding a new line
 
 adding a line
 
+new edit stash
+
